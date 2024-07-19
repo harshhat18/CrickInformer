@@ -1,6 +1,6 @@
-# Cricket Score Tracker
+# CrickInformer
 
-Welcome to the Cricket Score Tracker, a comprehensive application that provides real-time cricket match scores and other related information. This project combines a robust Spring Boot backend with an interactive Angular frontend to deliver an engaging user experience for cricket enthusiasts.
+Welcome to the CrickInformer, a comprehensive application that provides real-time cricket match scores and other related information. This project combines a robust Spring Boot backend with an interactive Angular frontend to deliver an engaging user experience for cricket enthusiasts.
 
 ## Overview
 
